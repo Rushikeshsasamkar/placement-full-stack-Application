@@ -98,6 +98,6 @@ use]. <b>
 
 
 - Name: Sahil Sayyad
-- GitHub: <a><b>[https://github.com/Sahil-Sayyad](https://github.com/Sahil-Sayyad/Placement_Cell)</a></b>
+- GitHub: <a><b>(https://github.com/Rushikeshsasamkar/placement-full-stack-Application)</a></b>
 - Email: 
 - Website: 
