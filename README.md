@@ -97,7 +97,7 @@ use]. <b>
 ## Author
 
 
-- Name: Sahil Sayyad
+- Name: Rushikesh Sasamkar
 - GitHub: <a><b>(https://github.com/Rushikeshsasamkar/placement-full-stack-Application)</a></b>
 - Email: 
 - Website: 
